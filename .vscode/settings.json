@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "list": "cpp",
+        "ostream": "cpp",
+        "process.h": "c",
+        "iterator": "c",
+        "xmemory": "c",
+        "xutility": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
